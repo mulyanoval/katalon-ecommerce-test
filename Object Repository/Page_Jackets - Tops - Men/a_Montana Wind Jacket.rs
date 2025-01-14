@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Montana Wind Jacket</name>
+   <tag></tag>
+   <elementGuidId>f31c19b3-db4d-4387-8c51-ce5d9e293fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[2]/div/div/strong/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ed5aa713-4f0a-4cbd-a9d9-54a373492d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-link</value>
+      <webElementGuid>34b1e7ea-3fde-4175-9a4a-52516f2a4242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/montana-wind-jacket.html</value>
+      <webElementGuid>64766db1-0e80-4953-9e06-3295dd46b87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Montana Wind Jacket                            </value>
+      <webElementGuid>2e6a2d17-70d3-46cf-9fcb-41baa2a99857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;products wrapper grid products-grid&quot;]/ol[@class=&quot;products list items product-items&quot;]/li[@class=&quot;item product product-item&quot;]/div[@class=&quot;product-item-info&quot;]/div[@class=&quot;product details product-item-details&quot;]/strong[@class=&quot;product name product-item-name&quot;]/a[@class=&quot;product-item-link&quot;]</value>
+      <webElementGuid>45f9e123-d192-4fe7-86cc-6c5fc1e54104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[2]/div/div/strong/a</value>
+      <webElementGuid>af3da22e-cdc5-4e39-bf3e-43f56e7fe8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Montana Wind Jacket')]</value>
+      <webElementGuid>2ddd2d1d-6502-454f-a0b5-5776fd572b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/montana-wind-jacket.html')])[2]</value>
+      <webElementGuid>988d86f6-fdef-40fd-97ff-228a5508040f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/strong/a</value>
+      <webElementGuid>e5cc2338-f15b-4edc-9e1f-ff0e0132dfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/montana-wind-jacket.html' and (text() = '
+                                Montana Wind Jacket                            ' or . = '
+                                Montana Wind Jacket                            ')]</value>
+      <webElementGuid>13abdfad-8a23-44d8-a112-0e4bb13dfb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jackets</name>
+   <tag></tag>
+   <elementGuidId>26012721-9ceb-4365-b78c-0e65abfb040d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-19']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-19 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d3cc27b7-4e4f-46b4-9b25-b4a51217d048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jackets</value>
+      <webElementGuid>9bad0f1d-589b-47b9-ac8c-8f4681ccbc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-19&quot;)/span[1]</value>
+      <webElementGuid>2c71896c-81bd-4c85-a170-32e15612722e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-19']/span</value>
+      <webElementGuid>6a37d5bc-38dd-4c21-9a10-c4c7e3b86e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li/a/span</value>
+      <webElementGuid>4dfe89ac-799c-46a1-9e26-6f0b2e4b9093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Jackets' or . = 'Jackets')]</value>
+      <webElementGuid>d1586f1b-3c09-48f7-92d1-326c64a6cb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
